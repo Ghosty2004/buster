@@ -51,7 +51,7 @@ const Dabiclient = new DabiImages.Client();
 
 // -> client Config
 const bot = new Discord.Client();
-const token = "Njk1NjU2MDI3OTExMjI1NDA2.XuHyMQ.9YyuOLpMWc8362Xkc3UAC60gSyI";
+const token = "BOT TOKEN";
 const copyright = "Copyright © BUSTER Discord Bot\n(2020-2021)";
 const sampserverid = "738477470717706340";
 const busterserver = "728545949927866369";
